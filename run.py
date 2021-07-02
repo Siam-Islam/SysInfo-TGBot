@@ -8,11 +8,11 @@ import time
 
 '''Configure Variables'''
 # bot token and test chatid
-TOKEN = ""
-ChatID = ""
+TOKEN = "1853010957:AAGOE3GBEiLOoCrCnBGnumd1sXIkjBTpwsw"
+ChatID = "1369867278"
 
 # sudo required
-Password = ""
+Password = "1234"
 
 # reboot wait seconds
 WaitSec = "10"
